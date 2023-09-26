@@ -6,7 +6,7 @@
 - 皮肤默认为mac绿色，可以在输入法设定里面选择其他的皮肤；
 - 删除了其他输入法，有需要可以自己在加进去；
 ---
-## 引用链接
+## 感谢以下项目
 - [四叶草输入法](https://github.com/fkxxyz/rime-cloverpinyin)
 - [中文NLP资源库](https://github.com/fighting41love/funNLP#%E8%AF%AD%E6%96%99%E5%BA%93)  里面有各种语料库，可以把这些语料库添加上拼音加入词库里面
 - [Rime 鼠须管输入法皮肤效果展示](https://github.com/NavisLab/rime-pifu)
@@ -18,8 +18,11 @@
   - [Rime 鼠须管 皮肤配置详解](https://blog.51cto.com/kylebing/5430702)
   - [微信键盘配色鼠须管皮肤](https://www.v2ex.com/t/930853)
 
-  这位加入了lua脚本，功能更强大
+  **这个项目加入了lua脚本，功能更强大**
   [rime-ice](https://github.com/iDvel/rime-ice)
+  
+  **这是扩展RIME脚本的链接**
+  [Extending RIME with Lua scripts](https://github.com/hchunhui/librime-lua)
 ---
   ## 用法
   备份本地个人设置文件夹，使用本文件夹代替即可
