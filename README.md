@@ -17,6 +17,9 @@
   找了其他好看的皮肤，直接替换即可
   - [Rime 鼠须管 皮肤配置详解](https://blog.51cto.com/kylebing/5430702)
   - [微信键盘配色鼠须管皮肤](https://www.v2ex.com/t/930853)
+
+  这位加入了lua脚本，功能更强大
+  [rime-ice](https://github.com/iDvel/rime-ice)
 ---
   ## 用法
   备份本地个人设置文件夹，使用本文件夹代替即可
