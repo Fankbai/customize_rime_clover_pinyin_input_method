@@ -1,0 +1,153 @@
+name: sogou_ximage
+version: "1"
+sort: by_weight
+
+...
+薄层扫描	bao ceng sao miao	1
+比释动能	bi shi dong neng	1
+比特	bi te	1
+表面阴影显示	biao mian yin ying xian shi	1
+并行采集	bing xing cai ji	1
+波粒二象性	bo li er xiang xing	1
+波谱	bo pu	1
+采集时间	cai ji shi jian	1
+层厚	ceng hou	1
+层间距	ceng jian ju	1
+超导体	chao dao ti	1
+弛豫	chi yu	1
+重叠扫描	chong die sao miao	1
+重复时间	chong fu shi jian	1
+重建函数	chong jian han shu	1
+重建时间	chong jian shi jian	1
+重建算法	chong jian suan fa	1
+窗宽	chuang kuan	1
+窗位	chuang wei	1
+磁场	ci chang	1
+磁共振	ci gong zhen	1
+磁矩	ci ju	1
+磁敏感	ci min gan	1
+磁体	ci ti	1
+磁旋比	ci xuan bi	1
+达峰时间	da feng shi jian	1
+当量剂量	dang liang ji liang	1
+刀锋技术	dao feng ji shu	1
+低剂量扫描	di ji liang sao miao	1
+电子对效应	dian zi dui xiao ying	1
+迭代法	die dai fa	1
+定位扫描	ding wei sao miao	1
+定位像	ding wei xiang	1
+动态扫描	dong tai sao miao	1
+断层扫描	duan ceng sao miao	1
+多平面重组	duo ping mian chong zu	1
+俄歇效应	e xie xiao ying	1
+反投影法	fan tou ying fa	1
+反转恢复	fan zhuan hui fu	1
+反转时间	fan zhuan shi jian	1
+放大扫描	fang da sao miao	1
+仿真内窥镜	fang zhen nei kui jing	1
+非螺旋扫描	fei luo xuan sao miao	1
+附加滤过	fu jia lv guo	1
+傅里叶变换	fu li ye bian huan	1
+高分辨率扫描	gao fen bian lv sao miao	1
+高压波形	gao ya bo xing	1
+高压发生器	gao ya fa sheng qi	1
+固有滤过	gu you lv guo	1
+管电流	guan dian liu	1
+管电压	guan dian ya	1
+光电效应	guang dian xiao ying	1
+光核反应	guang he fan ying	1
+鬼影	gui ying	1
+过采样	guo cai yang	1
+核素	he su	1
+呼吸门控	hu xi men kong	1
+化学位移	hua xue wei yi	1
+回波时间	hui bo shi jian	1
+灰阶	hui jie	1
+焦点	jiao dian	1
+解析法	jie xi fa	1
+进动	jin dong	1
+静磁场	jing ci chang	1
+距离防护	ju li fang hu	1
+矩阵	ju zhen	1
+卷积核	juan ji he	1
+卷褶	juan zhe	1
+康普顿效应	kang pu dun xiao ying	1
+空间分辨力	kong jian fen bian li	1
+快速自旋回波	kuai su zi xuan hui bo	1
+拉莫尔	la mo er	1
+螺距	luo ju	1
+螺旋扫描	luo xuan sao miao	1
+滤波	lv bo	1
+滤波函数	lv bo han shu	1
+滤过器	lv guo qi	1
+密度分辨率	mi du fen bian lv	1
+弥散	mi san	1
+魔方技术	mo fang ji shu	1
+模数转换	mo shu zhuan huan	1
+钼靶	mu ba	1
+频率编码	pin lv bian ma	1
+屏蔽防护	ping bi fang hu	1
+平面回波	ping mian hui bo	1
+铅当量	qian dang liang	1
+球管	qiu guan	1
+曲面重建	qu mian chong jian	1
+确定性效应	que ding xing xiao ying	1
+热容量	re rong liang	1
+容积扫描	rong ji sao miao	1
+容积效应	rong ji xiao ying	1
+容积再现法	rong ji zai xian fa	1
+柔线圈	rou xian quan	1
+散热率	san re lv	1
+散射角	san she jiao	1
+射频脉冲	she pin mai chong	1
+射线	she xian	1
+实际焦点	shi ji jiao dian	1
+时间防护	shi jian fang hu	1
+时间飞跃法	shi jian fei yue fa	1
+时间分辨率	shi jian fen bian lv	1
+视野	shi ye	1
+数模转换	shu mo zhuan huan	1
+双能扫描	shuang neng sao miao	1
+水成像	shui cheng xiang	1
+随机性效应	sui ji xing xiao ying	1
+探测器	tan ce qi	1
+碳刷	tan shua	1
+特斯拉	te si la	1
+梯度磁场	ti du ci chang	1
+梯度回波	ti du hui bo	1
+梯度线圈	ti du xian quan	1
+体素	ti su	1
+体线圈	ti xian quan	1
+调制传递函数	tiao zhi chuan di han shu	1
+听眶线	ting kuang xian	1
+听眉线	ting mei xian	1
+听眦线	ting zi xian	1
+伪影	wei ying	1
+吸收剂量	xi shou ji liang	1
+线圈	xian quan	1
+像素	xiang su	1
+相位编码	xiang wei bian ma	1
+心电门控	xin dian men kong	1
+信噪比	xin zao bi	1
+压水	ya shui	1
+压脂	ya zhi	1
+延迟扫描	yan chi sao miao	1
+阳极靶面	yang ji ba mian	1
+阳极倾角	yang ji qing jiao	1
+阳极热容量	yang ji re rong liang	1
+阳极散热率	yang ji san re lv	1
+影像数据	ying xiang shu ju	1
+永磁体	yong ci ti	1
+有效剂量	you xiao ji liang	1
+有效焦点	you xiao jiao dian	1
+原始数据	yuan shi shu ju	1
+噪声	zao sheng	1
+增强扫描	zeng qiang sao miao	1
+照射量	zhao she liang	1
+振幅	zhen fu	1
+指脉	zhi mai	1
+主磁场	zhu ci chang	1
+准直器	zhun zhi qi	1
+自旋运动	zi xuan yun dong	1
+最大密度投影	zui da mi du tou ying	1
+最小密度投影	zui xiao mi du tou ying	1

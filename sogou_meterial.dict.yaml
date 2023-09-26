@@ -1,0 +1,242 @@
+name: sogou_meterial
+version: "1"
+sort: by_weight
+
+...
+半衰期	ban shuai qi	1
+苯酚	ben fen	1
+苯乙烯	ben yi xi	1
+吡咯	bi luo	1
+表观	biao guan	1
+丙烯	bing xi	1
+丙烯腈	bing xi jing	1
+丙烯酸	bing xi suan	1
+丙烯酰胺	bing xi xian an	1
+玻璃化	bo li hua	1
+玻璃化转变温度	bo li hua zhuan bian wen du	1
+布氏	bu shi	1
+层流	ceng liu	1
+层片	ceng pian	1
+冲击强度	chong ji qiang du	1
+串晶	chuan jing	1
+单键	dan jian	1
+第二维利系数	di er wei li xi shu	1
+电导	dian dao	1
+电导率	dian dao lv	1
+电解质	dian jie zhi	1
+丁二烯	ding er xi	1
+动力学	dong li xue	1
+断裂韧性	duan lie ren xing	1
+对苯二甲酸丁二酯	dui ben er jia suan ding er zhi	1
+多分散性	duo fen san xing	1
+反式	fan shi	1
+芳环	fang huan	1
+芳香族	fang xiang zu	1
+非晶态	fei jing tai	1
+分率	fen lv	1
+酚醛	fen quan	1
+酚醛树脂	fen quan shu zhi	1
+分子链	fen zi lian	1
+氟乙烯	fu yi xi	1
+高弹态	gao tan tai	1
+共混	gong hun	1
+共晶	gong jing	1
+共聚物	gong ju wu	1
+功能高分子	gong neng gao fen zi	1
+共析	gong xi	1
+共析钢	gong xi gang	1
+构象	gou xiang	1
+构型	gou xing	1
+构造	gou zao	1
+固溶化	gu rong hua	1
+固溶强化	gu rong qiang hua	1
+固溶体	gu rong ti	1
+光敏剂	guang min ji	1
+光学显微镜	guang xue xian wei jing	1
+硅氧	gui yang	1
+胡克	hu ke	1
+胡克定律	hu ke ding lv	1
+化学位	hua xue wei	1
+环氧	huan yang	1
+环氧树脂	huan yang shu zhi	1
+回火	hui huo	1
+挤出物	ji chu wu	1
+挤出胀大	ji chu zhang da	1
+加工硬化	jia gong ying hua	1
+甲基	jia ji	1
+甲基丙烯酸	jia ji bing xi suan	1
+甲基丙烯酸甲脂	jia ji bing xi suan jia zhi	1
+加聚	jia ju	1
+甲醛	jia quan	1
+剪切带	jian qie dai	1
+间同	jian tong	1
+间同立构	jian tong li gou	1
+交变	jiao bian	1
+交联度	jiao lian du	1
+胶束	jiao shu	1
+胶粘剂	jiao zhan ji	1
+结晶度	jie jing du	1
+截面积	jie mian ji	1
+接枝	jie zhi	1
+竞聚率	jing ju lv	1
+晶区	jing qu	1
+颈缩	jing suo	1
+晶态	jing tai	1
+聚氨酯	ju an zhi	1
+聚苯醚	ju ben mi	1
+聚苯乙烯	ju ben yi xi	1
+聚吡咯	ju bi luo	1
+聚丙烯	ju bing xi	1
+聚丙烯酸	ju bing xi suan	1
+聚丙烯酰胺	ju bing xi xian an	1
+聚丁二烯	ju ding er xi	1
+聚对苯二甲酸丁二酯	ju dui ben er jia suan ding er zhi	1
+聚对苯二甲酰对苯二胺	ju dui ben er jia xian dui ben er an	1
+聚二甲基硅氧烷	ju er jia ji gui yang wan	1
+聚砜	ju feng	1
+聚合度	ju he du	1
+聚集态	ju ji tai	1
+聚甲基丙烯酸	ju jia ji bing xi suan	1
+聚甲基丙烯酸甲脂	ju jia ji bing xi suan jia zhi	1
+聚甲醛	ju jia quan	1
+聚氯丁二烯	ju lv ding er xi	1
+聚氯化膦腈	ju lv hua lin jing	1
+聚氯乙烯	ju lv yi xi	1
+聚醚	ju mi	1
+聚醚醚酮	ju mi mi tong	1
+聚偏二氯乙烯	ju pian er lv yi xi	1
+聚偏氟乙烯	ju pian fu yi xi	1
+聚羟基乙酸	ju qiang ji yi suan	1
+聚四氟乙烯	ju si fu yi xi	1
+聚四甲基对亚苯基硅氧烷	ju si jia ji dui ya ben ji gui yang wan	1
+聚缩醛	ju suo quan	1
+聚碳酸脂	ju tan suan zhi	1
+聚烯胺	ju xi an	1
+聚酰亚胺	ju xian ya an	1
+聚氧化乙烯	ju yang hua yi xi	1
+聚异丁烯	ju yi ding xi	1
+聚已二酰已二胺	ju yi er xian yi er an	1
+聚乙炔	ju yi que	1
+聚乙酸乙烯脂	ju yi suan yi xi zhi	1
+聚异戊二烯	ju yi wu er xi	1
+聚乙烯	ju yi xi	1
+聚乙烯醇	ju yi xi chun	1
+聚乙烯基甲基醚	ju yi xi ji jia ji mi	1
+聚脂	ju zhi	1
+均方	jun fang	1
+均聚物	jun ju wu	1
+抗拉强度	kang la qiang du	1
+莱氏体	lai shi ti	1
+立构	li gou	1
+离心力	li xin li	1
+链段	lian duan	1
+链节	lian jie	1
+连锁聚合反应	lian suo ju he fan ying	1
+链转移剂	lian zhuan yi ji	1
+茏蔽	long bi	1
+茏蔽效应	long bi xiao ying	1
+洛氏	luo shi	1
+氯丁二烯	lv ding er xi	1
+氯乙烯	lv yi xi	1
+马来酸酐	ma lai suan gan	1
+马氏体	ma shi ti	1
+弥散	mi san	1
+弥散强化	mi san qiang hua	1
+模孔	mo kong	1
+耐磨性	nai mo xing	1
+挠曲	nao qu	1
+内聚能	nei ju neng	1
+内旋转	nei xuan zhuan	1
+黏度	nian du	1
+黏均	nian jun	1
+黏弹	nian tan	1
+黏弹性	nian tan xing	1
+黏性	nian xing	1
+尿素	niao su	1
+牛顿流体	niu dun liu ti	1
+偶合终止	ou he zhong zhi	1
+爬杆效应	pa gan xiao ying	1
+偏二氯乙烯	pian er lv yi xi	1
+偏氟乙烯	pian fu yi xi	1
+普适	pu shi	1
+器壁	qi bi	1
+歧化	qi hua	1
+歧化终止	qi hua zhong zhi	1
+嵌段	qian duan	1
+切变	qie bian	1
+切变模量	qie bian mo liang	1
+球晶	qiu jing	1
+取代基	qu dai ji	1
+屈服点	qu fu dian	1
+屈服强度	qu fu qiang du	1
+屈氏体	qu shi ti	1
+全同	quan tong	1
+全同立构	quan tong li gou	1
+热塑性	re su xing	1
+溶度	rong du	1
+溶度参数	rong du can shu	1
+柔顺性	rou shun xing	1
+蠕变	ru bian	1
+时温	shi wen	1
+时温等效	shi wen deng xiao	1
+数均	shu jun	1
+衰减	shuai jian	1
+双节线	shuang jie xian	1
+顺式	shun shi	1
+四氟乙烯	si fu yi xi	1
+塑化	su hua	1
+缩聚	suo ju	1
+索氏体	suo shi ti	1
+碳链	tan lian	1
+碳链聚合物	tan lian ju he wu	1
+铁素体	tie su ti	1
+湍流	tuan liu	1
+位错	wei cuo	1
+未端距	wei duan ju	1
+维氏	wei shi	1
+无规	wu gui	1
+无规立构	wu gui li gou	1
+细颈	xi jing	1
+稀溶液	xi rong ye	1
+相分离	xiang fen li	1
+相互作用参数	xiang hu zuo yong can shu	1
+向心力	xiang xin li	1
+形核剂	xing he ji	1
+序列结构	xu lie jie gou	1
+旋光	xuan guang	1
+旋节线	xuan jie xian	1
+杨氏	yang shi	1
+杨氏模量	yang shi mo liang	1
+异丁烯	yi ding xi	1
+乙炔	yi que	1
+乙酸乙烯脂	yi suan yi xi zhi	1
+异戊二烯	yi wu er xi	1
+乙烯	yi xi	1
+乙烯醇	yi xi chun	1
+乙烯基甲基醚	yi xi ji jia ji mi	1
+引发剂	yin fa ji	1
+银纹	yin wen	1
+应力松弛	ying li song chi	1
+诱导分解	you dao fen jie	1
+元素有机聚合物	yuan su you ji ju he wu	1
+杂链	za lian	1
+杂链聚合物	za lian ju he wu	1
+增容剂	zeng rong ji	1
+粘均	zhan jun	1
+粘流态	zhan liu tai	1
+占有体积	zhan you ti ji	1
+脂肪族	zhi fang zu	1
+支化	zhi hua	1
+支链	zhi lian	1
+织态	zhi tai	1
+重均	zhong jun	1
+逐步聚合反应	zhu bu ju he fan ying	1
+珠光体	zhu guang ti	1
+柱晶	zhu jing	1
+主族	zhu zu	1
+转化率	zhuan hua lv	1
+自由基	zi you ji	1
+自由体积	zi you ti ji	1
+阻聚	zu ju	1
+阻聚剂	zu ju ji	1
+最可几	zui ke ji	1
