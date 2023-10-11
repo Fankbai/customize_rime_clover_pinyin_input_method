@@ -37,10 +37,6 @@
 
 3. 打开任务管理器，找到【小狼毫算法服务】，右键【结束任务】；
 
-![setting2](images/setting2.png)
-
-
-
 4. 下载【setting】压缩文件，解压到【用户文件夹】中（setting文件夹）；
 
 5. 到【程序文件夹】中，依次点击“WeaselServer.exe", "WeaselSetup.exe", "WeaselDeployer.exe";
