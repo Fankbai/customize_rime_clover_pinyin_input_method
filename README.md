@@ -7,6 +7,8 @@
 - 增加了一些其他输入法词库；
 - 皮肤默认为mac绿色，可以在输入法设定里面选择其他的皮肤；
 - 删除了其他输入法，有需要可以自己在加进去；
+- 添加修改后的【雾凇拼音】词库tencent.dict.yaml文件（[腾讯词向量百万词库](https://ai.tencent.com/ailab/nlp/zh/download.html)）作为tencent_nlp_pinyin.yaml文件；
+- 添加一个python脚本，给nlp词库添加拼音，权重全部设为1
 ---
 ## 感谢以下项目
 - [四叶草输入法](https://github.com/fkxxyz/rime-cloverpinyin)
