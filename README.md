@@ -1,5 +1,5 @@
 # 🍀️——>🌲customize-rime-cloverpinyinyin
-![IMAGE](IMAGE.png)
+![IMAGE](images/IMAGE.png)
 
 在🍀️四叶草拼音输入方案的基础上进行定制:
 - 增加了英语的输入;
@@ -29,5 +29,19 @@
   [Extending RIME with Lua scripts](https://github.com/hchunhui/librime-lua)
 ---
   ## 用法
-  备份本地个人设置文件夹，使用本文件夹代替即可
-  
+  以windows10为例：
+
+1. 在任务栏中rime输入法图标上右键，点击【用户文件夹】，将全部文件备份到其他文件夹下，清空setting文件夹；
+
+2. 再次，点击【程序文件夹】；
+
+3. 打开任务管理器，找到【小狼毫算法服务】，右键【结束任务】；
+
+![setting2](images/setting2.png)
+
+
+
+4. 下载【setting】压缩文件，解压到【用户文件夹】中（setting文件夹）；
+
+5. 到【程序文件夹】中，依次点击“WeaselServer.exe", "WeaselSetup.exe", "WeaselDeployer.exe";
+6. 在任务栏中rime输入法图标上右键，点击【重新部署】
