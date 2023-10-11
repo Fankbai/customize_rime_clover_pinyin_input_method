@@ -1,0 +1,161 @@
+name: sogou_light
+version: "1"
+sort: by_weight
+
+...
+边缘光束	bian yuan guang shu	1
+边缘厚度	bian yuan hou du	1
+波长	bo chang	1
+波象差	bo xiang cha	1
+布儒斯特角	bu ru si te jiao	1
+参考光线	can kao guang xian	1
+参考球	can kao qiu	1
+场点	chang dian	1
+场曲	chang qu	1
+出射	chu she	1
+出射光	chu she guang	1
+出射瞳孔	chu she tong kong	1
+出瞳	chu tong	1
+垂直度	chui zhi du	1
+垂轴放大率	chui zhou fang da lv	1
+垂轴色差	chui zhou se cha	1
+等光程	deng guang cheng	1
+反射光	fan she guang	1
+反射光栅	fan she guang shan	1
+反射角	fan she jiao	1
+反射镜	fan she jing	1
+反射面	fan she mian	1
+放大率	fang da lv	1
+非近轴系统	fei jin zhou xi tong	1
+菲涅耳近似	fei nie er jin si	1
+菲涅耳镜面	fei nie er jing mian	1
+菲涅耳棱镜	fei nie er leng jing	1
+菲涅耳衍射	fei nie er yan she	1
+非球面	fei qiu mian	1
+夫琅禾费衍射	fu lang he fei yan she	1
+干涉图	gan she tu	1
+高级像差	gao ji xiang cha	1
+高斯光束	gao si guang shu	1
+共轭	gong e	1
+共振腔	gong zhen qiang	1
+光程差	guang cheng cha	1
+光电二极管	guang dian er ji guan	1
+光阑	guang lan	1
+光圈	guang quan	1
+光栅	guang shan	1
+光栅常数	guang shan chang shu	1
+光通量	guang tong liang	1
+光纤	guang xian	1
+光线追及	guang xian zhui ji	1
+光学传递函数	guang xue chuan di han shu	1
+光轴	guang zhou	1
+归一化	gui yi hua	1
+弧矢光线	hu shi guang xian	1
+弧矢面	hu shi mian	1
+彗差	hui cha	1
+畸变	ji bian	1
+激光	ji guang	1
+激光器	ji guang qi	1
+几何能量分布	ji he neng liang fen bu	1
+基轴坐标	ji zhou zuo biao	1
+渐晕	jian yun	1
+渐晕系数	jian yun xi shu	1
+角放大率	jiao fang da lv	1
+焦数	jiao shu	1
+校正	jiao zheng	1
+节点	jie dian	1
+结构参数	jie gou can shu	1
+节平面	jie ping mian	1
+近轴光束	jin zhou guang shu	1
+近轴光线	jin zhou guang xian	1
+近轴光学	jin zhou guang xue	1
+近轴特性	jin zhou te xing	1
+近轴像差	jin zhou xiang cha	1
+景深	jing shen	1
+孔径	kong jing	1
+孔径分隔	kong jing fen ge	1
+孔径光阑	kong jing guang lan	1
+孔径检查	kong jing jian cha	1
+孔径坐标	kong jing zuo biao	1
+拉格朗日系数	la ge lang ri xi shu	1
+理想光线	li xiang guang xian	1
+理想镜面	li xiang jing mian	1
+理想透镜	li xiang tou jing	1
+离轴光束	li zhou guang shu	1
+码型	ma xing	1
+目镜	mu jing	1
+尼科尔棱镜	ni ke er leng jing	1
+佩兹伐场曲	pei zi fa chang qu	1
+佩兹伐透镜	pei zi fa tou jing	1
+球差	qiu cha	1
+曲率	qu lv	1
+曲率半径	qu lv ban jing	1
+全光	quan guang	1
+全像	quan xiang	1
+绕射	rao she	1
+入射光	ru she guang	1
+入射光束半径	ru she guang shu ban jing	1
+入射角	ru she jiao	1
+入射面	ru she mian	1
+入射瞳孔	ru she tong kong	1
+入瞳	ru tong	1
+瑞利半径	rui li ban jing	1
+瑞利范围	rui li fan wei	1
+色差	se cha	1
+色散	se san	1
+闪耀光栅	shan yao guang shan	1
+视场	shi chang	1
+视场光阑	shi chang guang lan	1
+视场角	shi chang jiao	1
+视放大率	shi fang da lv	1
+视见函数	shi jian han shu	1
+数值孔径	shu zhi kong jing	1
+双高斯透镜	shuang gao si tou jing	1
+双透镜	shuang tou jing	1
+锁模	suo mo	1
+梯度透镜	ti du tou jing	1
+梯度折射率	ti du zhe she lv	1
+体视	ti shi	1
+调焦镜	tiao jiao jing	1
+通光孔径	tong guang kong jing	1
+瞳孔像差	tong kong xiang cha	1
+透镜组	tou jing zu	1
+透射光	tou she guang	1
+透射光栅	tou she guang shan	1
+物放焦点	wu fang jiao dian	1
+物高	wu gao	1
+无焦	wu jiao	1
+物镜	wu jing	1
+物空间	wu kong jian	1
+物面	wu mian	1
+物平面	wu ping mian	1
+物像空间不变式	wu xiang kong jian bu bian shi	1
+像差	xiang cha	1
+像方焦点	xiang fang jiao dian	1
+像高	xiang gao	1
+像空间	xiang kong jian	1
+像面	xiang mian	1
+像平面	xiang ping mian	1
+像散	xiang san	1
+消色差物镜	xiao se cha wu jing	1
+谐振腔	xie zhen qiang	1
+衍射	yan she	1
+衍射极限	yan she ji xian	1
+优化函数	you hua han shu	1
+有效焦距	you xiao jiao ju	1
+远焦	yuan jiao	1
+远心光路	yuan xin guang lu	1
+圆锥镜面	yuan zhui jing mian	1
+斩波	zhan bo	1
+折射光	zhe she guang	1
+轴放大率	zhou fang da lv	1
+轴光束	zhou guang shu	1
+轴向色差	zhou xiang se cha	1
+主动锁模	zhu dong suo mo	1
+主光线	zhu guang xian	1
+锥形常数	zhui xing chang shu	1
+准直	zhun zhi	1
+子午光线	zi wu guang xian	1
+子午面	zi wu mian	1
+自准直	zi zhun zhi	1
+最优化	zui you hua	1

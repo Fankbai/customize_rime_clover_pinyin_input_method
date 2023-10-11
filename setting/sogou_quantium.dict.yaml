@@ -1,0 +1,215 @@
+name: sogou_quantium
+version: "1"
+sort: by_weight
+
+...
+本征态	ben zheng tai	1
+编时	bian shi	1
+编时乘积	bian shi cheng ji	1
+编时算符	bian shi suan fu	1
+表观发散	biao guan fa san	1
+表观发散度	biao guan fa san du	1
+标量场	biao liang chang	1
+表象	biao xiang	1
+玻色爱因斯坦统计	bo se ai yin si tan tong ji	1
+玻色场	bo se chang	1
+不变性	bu bian xing	1
+不定度规	bu ding du gui	1
+不可重整	bu ke chong zheng	1
+不连接图	bu lian jie tu	1
+产生算符	chan sheng suan fu	1
+场论	chang lun	1
+超可重整	chao ke chong zheng	1
+重整化	chong zheng hua	1
+重整化群	chong zheng hua qun	1
+重整化群流	chong zheng hua qun liu	1
+传播子	chuan bo zi	1
+大统一	da tong yi	1
+带电流	dai dian liu	1
+单粒子不可约图	dan li zi bu ke yue tu	1
+单圈重整化	dan quan chong zheng hua	1
+单圈图	dan quan tu	1
+等时对易子	deng shi dui yi zi	1
+狄拉克方程	di la ke fang cheng	1
+抵消项	di xiao xiang	1
+电磁流	dian ci liu	1
+电磁流守恒	dian ci liu shou heng	1
+电荷共轭	dian he gong e	1
+电弱统一	dian ruo tong yi	1
+电弱统一理论	dian ruo tong yi li lun	1
+电子伏	dian zi fu	1
+电子自能	dian zi zi neng	1
+顶角	ding jiao	1
+顶角函数	ding jiao han shu	1
+定域	ding yu	1
+定域场论	ding yu chang lun	1
+定域对称性	ding yu dui chen xing	1
+对称性破缺	dui chen xing po que	1
+对易	dui yi	1
+对易关系	dui yi guan xi	1
+对易子	dui yi zi	1
+二次量子化	er ci liang zi hua	1
+反常磁矩	fan chang ci ju	1
+反对易	fan dui yi	1
+反对易子	fan dui yi zi	1
+反粒子	fan li zi	1
+非定域	fei ding yu	1
+非定域场论	fei ding yu chang lun	1
+非局域	fei ju yu	1
+费曼传播子	fei man chuan bo zi	1
+费曼规则	fei man gui ze	1
+费曼图	fei man tu	1
+费米场	fei mi chang	1
+费米狄拉克统计	fei mi di la ke tong ji	1
+非微扰	fei wei rao	1
+非最小耦合	fei zui xiao ou he	1
+分立对称性	fen li dui chen xing	1
+复标量场	fu biao liang chang	1
+福克空间	fu ke kong jian	1
+负能解	fu neng jie	1
+辐射规范	fu she gui fan	1
+哥德斯通	ge de si tong	1
+共轭动量	gong e dong liang	1
+共振态	gong zhen tai	1
+光锥规范	guang zhui gui fan	1
+鬼场	gui chang	1
+规范不变	gui fan bu bian	1
+规范不变性	gui fan bu bian xing	1
+规范场	gui fan chang	1
+规范反常	gui fan fan chang	1
+海森堡方程	hai sen bao fang cheng	1
+海森堡绘景	hai sen bao hui jing	1
+横光子	heng guang zi	1
+红外发散	hong wai fa san	1
+绘景	hui jing	1
+基态	ji tai	1
+减除	jian chu	1
+渐进自由	jian jin zi you	1
+简谐振动	jian xie zhen dong	1
+简谐振子	jian xie zhen zi	1
+胶子	jiao zi	1
+经典场论	jing dian chang lun	1
+局域规范变换	ju yu gui fan bian huan	1
+卡比玻角	ka bi bo jiao	1
+可重整	ke chong zheng	1
+蝌蚪图	ke dou tu	1
+夸克	kua ke	1
+夸克胶子等离子体	kua ke jiao zi deng li zi ti	1
+夸克禁闭	kua ke jin bi	1
+快子	kuai zi	1
+朗道规范	lang dao gui fan	1
+朗道极点	lang dao ji dian	1
+勒让德	le rang de	1
+勒让德变换	le rang de bian huan	1
+连接图	lian jie tu	1
+连续对称性	lian xu dui chen xing	1
+量子场论	liang zi chang lun	1
+量子电动力学	liang zi dian dong li xue	1
+量子反常	liang zi fan chang	1
+量子化	liang zi hua	1
+量子化方案	liang zi hua fang an	1
+量子色动力学	liang zi se dong li xue	1
+路径积分	lu jing ji fen	1
+裸参数	luo can shu	1
+裸场	luo chang	1
+裸电荷	luo dian he	1
+洛伦兹变换	luo lun zi bian huan	1
+裸质量	luo zhi liang	1
+内禀	nei bing	1
+能动张量	neng dong zhang liang	1
+耦合常数	ou he chang shu	1
+耦合常数跑动	ou he chang shu pao dong	1
+跑动耦合常数	pao dong ou he chang shu	1
+彭加莱	peng jia lai	1
+彭加莱变换	peng jia lai bian huan	1
+彭加莱代数	peng jia lai dai shu	1
+彭加莱群	peng jia lai qun	1
+彭加勒	peng jia le	1
+平面波展开	ping mian bo zhan kai	1
+破缺	po que	1
+奇异数	qi yi shu	1
+强子弱流	qiang zi ruo liu	1
+圈图	quan tu	1
+圈图展开	quan tu zhan kai	1
+韧致辐射	ren zhi fu she	1
+散射截面	san she jie mian	1
+散射矩阵	san she ju zhen	1
+散射振幅	san she zhen fu	1
+色浆	se jiang	1
+色散关系	se san guan xi	1
+生成元	sheng cheng yuan	1
+实标量场	shi biao liang chang	1
+矢量场	shi liang chang	1
+守恒菏	shou heng he	1
+守恒流	shou heng liu	1
+手征	shou zheng	1
+手征变换	shou zheng bian huan	1
+手正不变	shou zheng bu bian	1
+手征微扰论	shou zheng wei rao lun	1
+手征性	shou zheng xing	1
+树图	shu tu	1
+双圈图	shuang quan tu	1
+双线性	shuang xian xing	1
+瞬子	shun zi	1
+四动量	si dong liang	1
+同位旋	tong wei xuan	1
+拓扑权	tuo pu quan	1
+拓扑权因子	tuo pu quan yin zi	1
+外尔旋量	wai er xuan liang	1
+外腿	wai tui	1
+外线	wai xian	1
+微观因果性	wei guan yin guo xing	1
+微扰	wei rao	1
+微扰论	wei rao lun	1
+维数正规化	wei shu zheng gui hua	1
+唯象	wei xiang	1
+无质量	wu zhi liang	1
+相互作用绘景	xiang hu zuo yong hui jing	1
+协变	xie bian	1
+协变微分	xie bian wei fen	1
+协变微商	xie bian wei shang	1
+谐振子	xie zhen zi	1
+虚粒子	xu li zi	1
+旋量	xuan liang	1
+旋量场	xuan liang chang	1
+薛定谔方程	xue ding e fang cheng	1
+薛定谔绘景	xue ding e hui jing	1
+赝标量	yan biao liang	1
+赝标量场	yan biao liang chang	1
+赝标量粒子	yan biao liang li zi	1
+湮灭算符	yan mie suan fu	1
+杨米尔斯	yang mi er si	1
+幺正算符	yao zheng suan fu	1
+幺正性	yao zheng xing	1
+因果律	yin guo lv	1
+引力场	yin li chang	1
+引力微子	yin li wei zi	1
+引力子	yin li zi	1
+右手中微子	you shou zhong wei zi	1
+有效场论	you xiao chang lun	1
+宇称	yu chen	1
+原始发散	yuan shi fa san	1
+在壳	zai ke	1
+张量场	zhang liang chang	1
+真空	zhen kong	1
+真空极化	zhen kong ji hua	1
+正规乘积	zheng gui cheng ji	1
+正规化	zheng gui hua	1
+正能解	zheng neng jie	1
+整体规范变换	zheng ti gui fan bian huan	1
+正则	zheng ze	1
+正则变换	zheng ze bian huan	1
+正则对易关系	zheng ze dui yi guan xi	1
+正则量子化	zheng ze liang zi hua	1
+质壳	zhi ke	1
+中性流	zhong xing liu	1
+自能	zi neng	1
+紫外发散	zi wai fa san	1
+自旋统计关系	zi xuan tong ji guan xi	1
+自由场	zi you chang	1
+纵光子	zong guang zi	1
+最小电磁耦合	zui xiao dian ci ou he	1
+最小减除	zui xiao jian chu	1
+最小耦合	zui xiao ou he	1
+左手中微子	zuo shou zhong wei zi	1
+作用量	zuo yong liang	1
