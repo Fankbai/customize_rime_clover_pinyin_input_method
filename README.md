@@ -1,4 +1,5 @@
-# 🍀️——>🌲customize-rime-cloverpinyinyin
+# 🍀️——>🌲四叶草输入法个人配置方案
+> From Clover to Cypress
 ![IMAGE](images/IMAGE.png)
 
 在🍀️四叶草拼音输入方案的基础上进行定制:
