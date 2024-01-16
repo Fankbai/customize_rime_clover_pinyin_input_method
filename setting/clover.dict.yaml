@@ -36,3 +36,4 @@ import_tables:
   - english_words
   - tencent_nlp_pinyin
   - Company_Names
+  - Daily_updated
